@@ -108,6 +108,9 @@ body {}
 .card {
     height: 250px !important;
     border-radius: 10px !important;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
+    box-shadow: -10px 22px 36px 0px rgba(57, 64, 211, 0.16);
+
 }
 
 .card-title {
@@ -128,3 +131,30 @@ body {}
 }
 
 /* service css end  */
+/* operation css start  */
+.operation{
+    margin-top: 160px;
+}
+
+.serviece_list{
+    color: #000000;
+    text-align: left;
+    font: 500 18px/67px "Inter", sans-serif;
+    position: relative;
+}
+.graphics_1{
+    position: absolute;
+    top: 90px;
+}
+.graphics_2{
+    position: absolute;
+    z-index: 10;
+    right: 30px;
+}
+.graphics_3{
+    position: absolute;
+    z-index: 10;
+    top: 360px;
+}
+/* operation css end  */
+
