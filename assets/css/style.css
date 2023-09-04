@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {}
+
+/* navbar css start  */
+.nav-item {
+    margin-left: 25px;
+}
+
+.btn-nav {
+    color: #FFF !important;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background-color: #1118AF !important;
+    box-shadow: -10px 23px 39px 0px rgba(57, 64, 211, 0.54);
+}
+
+/* navbar css end  */
+/* hero css start  */
+.hero {
+    background-image: url(/assets/img/hero.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 100vh;
+    max-width: 100%;
+}
+
+.hero_heading {
+    color: #000;
+    font-family: Chivo;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+    text-align: center;
+}
+
+.hero_sub {
+    width: 470px;
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+}
+
+/* hero css end  */
+
+/* partner css start  */
+.partner_title {
+    color: #000;
+    font-family: Chivo;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    
+}
+.partner_sub{
+    color: #1118AF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+}
+
+/* partner css start  */
